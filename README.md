@@ -5,11 +5,10 @@ Atualmente estudando as linguagens python, HTML e C.
 ##
 
 <div>
-<a href="https://github.com/flaviaprouvot"›
-<img height-"180em" src="https://github-readme-stats.vercel.app/api?username-flaviaprouvot&show_icons-true&theme=dracula&include_all_commits=true&count_private-true"/›
-<img height-"180em* src="https://github-readme-stats.vercel.app/api/top-langs/?username-flaviaprouvot&layout=compact&langs_count=16&thene=dracula"/>
-</a>
-</div>
+<a href="https://github.com/flaviaprouvot">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=flaviaprouvot&show_icons-true&theme=minimal&include_all_commits=true&count_private-true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaprouvot&layout=compact&langs_count=16&theme=minimal"/>
+</div> 
 
 <div style="display: inline_block"><br>
  
