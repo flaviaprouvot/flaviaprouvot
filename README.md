@@ -1,6 +1,6 @@
 ## Olá! Bem vindo ao meu perfil.
 
-Atualmente cursando desenvolvimento de sistemas no SENAI Italo Bologna - Itu.
+Atualmente cursando desenvolvimento de sistemas no SENAI Italo Bologna - Itu. <br>
 Atualmente estudando as linguagens python, HTML e C.
 
 <div style="display: inline_block"><br>
