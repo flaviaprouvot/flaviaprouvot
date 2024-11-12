@@ -15,8 +15,8 @@ Atualmente estudando as linguagens Python, HTML, C++, Css, PHP e SQL.
 <img align="center" alt="fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="fla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="fla-C++" height="40" width="40" src="https://cdn3d.iconscout.com/3d/premium/thumb/c-3d-icon-download-in-png-blend-fbx-gltf-file-formats--object-oriented-programming-language-programing-code-data-web-development-pack-website-icons-8478891.png?f=webp">
-<img align="center" alt="fla-php" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2305/2305919.png">
-<img align="center" alt="fla-sql" height="30" width="40" src="https://desenvolvimentoaberto.org/wp-content/uploads/2016/11/logoazuresql.png?w=286.png">
+<img align="center" alt="fla-php" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/2305/2305919.png">
+<img align="center" alt="fla-sql" height="35" width="40" src="https://desenvolvimentoaberto.org/wp-content/uploads/2016/11/logoazuresql.png?w=286.png">
 </div>
   
   ##
