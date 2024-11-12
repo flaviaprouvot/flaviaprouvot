@@ -14,9 +14,9 @@ Atualmente estudando as linguagens python, HTML e C.
  
 <img align="center" alt="fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="fla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="fla-Csharp" height="30" width="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSw-_CmhB_U3a5su0Vz9wGbRlUN2kyOrafviDCtum3RPP5MfniQEAJ02GC9RluI6V9JvZoruMok0-jOd_kL5_Q_asy1FOqDu3EubW89f0kBNa7ry8vmtwW7rkHyM1FldHt2Ka0P1R2TJJv/s1600/c%252B%252B.jpg">
-<img align="center" alt="fla-php" height="30" width="40" src="https://w7.pngwing.com/pngs/185/655/png-transparent-logo-php-computer-icons-symbol-miscellaneous-emblem-text.png">
-<img align="center" alt="fla-sql" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt0uH0Q07Z8uOQDBwzn5ZaRjD9j5Q98YpdQA&s">
+<img align="center" alt="fla-C++" height="30" width="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSw-_CmhB_U3a5su0Vz9wGbRlUN2kyOrafviDCtum3RPP5MfniQEAJ02GC9RluI6V9JvZoruMok0-jOd_kL5_Q_asy1FOqDu3EubW89f0kBNa7ry8vmtwW7rkHyM1FldHt2Ka0P1R2TJJv/s1600/c%252B%252B.svg">
+<img align="center" alt="fla-php" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2305/2305919.svg">
+<img align="center" alt="fla-sql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2305/2305919.svg">
 </div>
   
   ##
