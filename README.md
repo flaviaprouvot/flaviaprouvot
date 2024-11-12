@@ -1,7 +1,7 @@
 ## Olá! Bem vindo ao meu perfil.
 
 Cursando análise e desenvolvimento de sistemas no SENAI Italo Bologna - Itu. <br>
-Atualmente estudando as linguagens python, HTML e C++, Css, PHP e SQL.
+Atualmente estudando as linguagens Python, HTML, C++, Css, PHP e SQL.
 ##
 
 <div>
@@ -14,7 +14,7 @@ Atualmente estudando as linguagens python, HTML e C++, Css, PHP e SQL.
  
 <img align="center" alt="fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="fla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="fla-C++" height="30" width="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSw-_CmhB_U3a5su0Vz9wGbRlUN2kyOrafviDCtum3RPP5MfniQEAJ02GC9RluI6V9JvZoruMok0-jOd_kL5_Q_asy1FOqDu3EubW89f0kBNa7ry8vmtwW7rkHyM1FldHt2Ka0P1R2TJJv/s1600/c%252B%252B.png">
+<img align="center" alt="fla-C++" height="30" width="40" src="https://cdn3d.iconscout.com/3d/premium/thumb/c-3d-icon-download-in-png-blend-fbx-gltf-file-formats--object-oriented-programming-language-programing-code-data-web-development-pack-website-icons-8478891.png?f=webp">
 <img align="center" alt="fla-php" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2305/2305919.png">
 <img align="center" alt="fla-sql" height="30" width="40" src="https://desenvolvimentoaberto.org/wp-content/uploads/2016/11/logoazuresql.png?w=286.png">
 </div>
