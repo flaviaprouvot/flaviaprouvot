@@ -7,6 +7,7 @@ Trabalhando nas linguagens HTML, Python, C++, PHP, SQL, CSS e JavaScript.
 <div>
 <a href="https://github.com/flaviaprouvot">
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=flaviaprouvot&show_icons-true&theme=minimal&include_all_commits=true&count_private-true"/>
+ <img height="130em" src="https://streak-stats.demolab.com?user=brunocamposfonseca&locale=pt-br&mode=daily&theme=minimal&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaprouvot&layout=compact&langs_count=16&theme=minimal"/>
 </div> 
 
@@ -28,5 +29,11 @@ Trabalhando nas linguagens HTML, Python, C++, PHP, SQL, CSS e JavaScript.
   <a href = "mailto:flavia.prouvot@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/flavia-prouvot-518a39302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </a> 
+ 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
   
 </div>
