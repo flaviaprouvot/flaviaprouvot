@@ -1,7 +1,7 @@
 ## Olá! Bem vindo ao meu perfil.
 
 Cursando análise e desenvolvimento de sistemas no SENAI Italo Bologna - Itu. <br>
-Atualmente estudando as linguagens Python, HTML, C++, Css, PHP e SQL.
+Atualmente estudando as linguagens HTML, Python, C++, PHP, SQL e CSS.
 ##
 
 <div>
@@ -17,6 +17,7 @@ Atualmente estudando as linguagens Python, HTML, C++, Css, PHP e SQL.
 <img align="center" alt="fla-C++" height="40" width="40" src="https://cdn3d.iconscout.com/3d/premium/thumb/c-3d-icon-download-in-png-blend-fbx-gltf-file-formats--object-oriented-programming-language-programing-code-data-web-development-pack-website-icons-8478891.png?f=webp">
 <img align="center" alt="fla-php" height="40" width="45" src="https://cdn-icons-png.flaticon.com/512/2305/2305919.png">
 <img align="center" alt="fla-sql" height="40" width="40" src="https://desenvolvimentoaberto.org/wp-content/uploads/2016/11/logoazuresql.png?w=286.png">
+<img align="center" alt="fla-css" height="40" width="40" src="https://logospng.org/download/css-3/logo-css-3-256.png">
 </div>
   
   ##
