@@ -7,6 +7,7 @@ Trabalhando nas linguagens HTML, Python, C++, PHP, SQL, CSS e JavaScript.
 <div>
 <a href="https://github.com/flaviaprouvot">
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=flaviaprouvot&show_icons-true&theme=minimal&include_all_commits=true&count_private-true"/>
+<a  href="https://git.io/streak-stats"><img height="130em" src="https://streak-stats.demolab.com?user=flaviaprouvot" alt="GitHub Streak" /></a>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaprouvot&layout=compact&langs_count=16&theme=minimal"/>
 </div> 
 
