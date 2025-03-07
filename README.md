@@ -15,7 +15,7 @@ Trabalhando nas linguagens HTML, Python, C++, PHP, SQL, CSS e JavaScript.
 <div style="display: inline_block"><br>
  
 <img align="center" alt="fla-HTML" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="fla-Python" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="fla-Python" height="38" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png">
 <img align="center" alt="fla-C++" height="40" width="40" src="https://cdn3d.iconscout.com/3d/premium/thumb/c-3d-icon-download-in-png-blend-fbx-gltf-file-formats--object-oriented-programming-language-programing-code-data-web-development-pack-website-icons-8478891.png?f=webp">
 <img align="center" alt="fla-php" height="40" width="45" src="https://cdn-icons-png.flaticon.com/512/2305/2305919.png">
 <img align="center" alt="fla-sql" height="40" width="40" src="https://desenvolvimentoaberto.org/wp-content/uploads/2016/11/logoazuresql.png?w=286.png">
