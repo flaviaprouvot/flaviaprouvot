@@ -20,7 +20,7 @@ Trabalhando nas linguagens HTML, Python, C++, PHP, SQL, CSS e JavaScript.
 <img align="center" alt="fla-php" height="40" width="45" src="https://cdn-icons-png.flaticon.com/512/2305/2305919.png">
 <img align="center" alt="fla-sql" height="38" width="38" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
 <img align="center" alt="fla-css" height="40" width="40" src="https://logospng.org/download/css-3/logo-css-3-256.png">
-<img align="center" alt="fla-js" height="35" width="35" src="https://w7.pngwing.com/pngs/1019/456/png-transparent-js-logo-logos-logos-and-brands-icon-thumbnail.png">
+<img align="center" alt="fla-js" height="35" width="35" src="https://w7.pngwing.com/pngs/1019/456/png-transparent-js-logo-logos-logos-and-brands-icon-thumbnail.png"> <br>
 <img align= "center" alt="fla-ard" height="40" width="40 alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  />
 
 </div>
