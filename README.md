@@ -21,6 +21,10 @@ Trabalhando nas linguagens HTML, Python, C++, PHP, SQL, CSS e JavaScript.
 <img align="center" alt="fla-sql" height="38" width="38" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
 <img align="center" alt="fla-css" height="40" width="40" src="https://logospng.org/download/css-3/logo-css-3-256.png">
 <img align="center" alt="fla-js" height="35" width="35" src="https://w7.pngwing.com/pngs/1019/456/png-transparent-js-logo-logos-logos-and-brands-icon-thumbnail.png">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
 </div>
   
   ##
