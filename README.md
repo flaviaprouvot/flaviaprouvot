@@ -19,7 +19,7 @@ Trabalhando nas linguagens HTML, Python, C++, PHP, SQL, CSS, JavaScript e Kotlin
 <img align="center" alt="fla-C++" height="42" width="42" src="https://cdn3d.iconscout.com/3d/premium/thumb/c-3d-icon-download-in-png-blend-fbx-gltf-file-formats--object-oriented-programming-language-programing-code-data-web-development-pack-website-icons-8478891.png?f=webp">
 <img align="center" alt="fla-php" height="40" width="45" src="https://cdn-icons-png.flaticon.com/512/2305/2305919.png">
 <img align="center" alt="fla-sql" height="38" width="38" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
-<img align="center" alt="fla-css" height="40" width="40" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png">
+<img align="center" alt="fla-css" height="40" width="70" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png">
 <img align="center" alt="fla-js" height="30" width="30" src="https://w7.pngwing.com/pngs/1019/456/png-transparent-js-logo-logos-logos-and-brands-icon-thumbnail.png">
 <img align="center" alt="fla-kotlin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png">
 
