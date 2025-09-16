@@ -6,8 +6,8 @@ Trabalhando nas linguagens HTML, Python, C++, PHP, SQL, CSS, JavaScript e Kotlin
 
 <div>
 <a href="https://github.com/flaviaprouvot">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaprouvot&layout=compact&langs_count=16&theme=minimal"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=flaviaprouvot&show_icons-true&theme=minimal&include_all_commits=true&count_private-true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaprouvot&layout=compact&langs_count=16&theme=merko"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=flaviaprouvot&show_icons-true&theme=merko&include_all_commits=true&count_private-true"/>
 
 
 </div> 
