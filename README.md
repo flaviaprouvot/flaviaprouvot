@@ -20,7 +20,7 @@ Trabalhando nas linguagens HTML, Python, C++, PHP, SQL, CSS, JavaScript e Kotlin
 <img align="center" alt="fla-php" height="40" width="45" src="https://cdn-icons-png.flaticon.com/512/2305/2305919.png">
 <img align="center" alt="fla-sql" height="78" width="78" src="https://www.nexustech.je/media/yyaacx1w/sql-1.png">
  <img align="center" alt="fla-css" height="37" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="fla-js" height="37" width="47" src="https://logospng.org/wp-content/uploads/javascript.png">
+ <img align="center" alt="fla-js" height="37" width="47" src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png">
 <img align="center" alt="fla-kotlin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png">
 
 
