@@ -1,6 +1,6 @@
 ## Olá! Bem vindo ao meu perfil.
 
-Cursando análise e desenvolvimento de sistemas no SENAI Italo Bologna - Itu. <br>
+Cursando desenvolvimento de sistemas no SENAI Italo Bologna - Itu. <br>
 Trabalhando nas linguagens HTML, Python, C++, PHP, SQL, CSS, JavaScript e Kotlin.
 ##
 
